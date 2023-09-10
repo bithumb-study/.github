@@ -1,4 +1,11 @@
-## Hi there 👋
+## Study 👋
+
+- [study-elegant-object](https://github.com/bithumb-study/study-elegant-object)
+  - 종료 
+- [study-unit-testing](https://github.com/bithumb-study/study-unit-testing)
+  - 종료   
+- [study-object](https://github.com/bithumb-study/study-object)
+  - 진행 중 
 
 <!--
 
