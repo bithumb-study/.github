@@ -7,6 +7,10 @@
 - [study-object](https://github.com/bithumb-study/study-object)
   - 종료
 
+## 미정
+
+- [study-rxjava-01](https://github.com/bithumb-study/study-rxjava-01)
+
 <!--
 
 **Here are some ideas to get you started:**
