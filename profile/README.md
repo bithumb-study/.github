@@ -10,6 +10,7 @@
 ## 미정
 
 - [study-rxjava-01](https://github.com/bithumb-study/study-rxjava-01)
+- [study-real-mysql-volume-01](https://github.com/bithumb-study/study-real-mysql-volume-01)
 
 <!--
 
