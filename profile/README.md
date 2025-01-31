@@ -5,7 +5,7 @@
 - [study-unit-testing](https://github.com/bithumb-study/study-unit-testing)
   - 종료   
 - [study-object](https://github.com/bithumb-study/study-object)
-  - 진행 중 
+  - 종료
 
 <!--
 
