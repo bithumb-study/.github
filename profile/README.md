@@ -1,4 +1,7 @@
-## Study 👋
+## 진행 중
+- 
+
+## 완료 👋
 
 - [study-elegant-object](https://github.com/bithumb-study/study-elegant-object)
   - 종료 
